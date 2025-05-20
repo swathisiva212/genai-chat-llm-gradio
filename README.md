@@ -98,6 +98,7 @@ gr.close_all()
 ```
 
 ### OUTPUT:
+![image](https://github.com/user-attachments/assets/ff9582d5-9d3c-42e0-aba2-e2e6485d5b75)
 
 ### RESULT:
 The "Chat with LLM" application was successfully designed and deployed using the Gradio Blocks framework, allowing seamless user interaction with a large language model.
